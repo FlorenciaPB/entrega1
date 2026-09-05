@@ -1,5 +1,6 @@
 # entrega1
-📌 Descripción del Proyecto
+📌 Descripción del Proyecto:
+
 Este proyecto consiste en el análisis de interacción e identificación de las interfaces de entrada (inputs) y salida (outputs) de una tostadora de uso cotidiano. El objetivo principal es clasificar y mapear cómo el usuario interactúa con el artefacto y cómo este responde sensorialmente.  
 
 
