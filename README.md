@@ -9,6 +9,7 @@ El análisis está integrado en una interfaz web interactiva que permite explora
 
 
 🗂️ Clasificación de Interfaces
+
 📥 Entradas (Inputs)
 Palanca de encendido/bajada (Física): Mecanismo manual que inicia el ciclo de tostado y engancha el electroimán.  
 
