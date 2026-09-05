@@ -1,5 +1,5 @@
 # entrega1
-📌 Descripción del Proyecto:
+📌 Descripción del Proyecto
 
 Este proyecto consiste en el análisis de interacción e identificación de las interfaces de entrada (inputs) y salida (outputs) de una tostadora de uso cotidiano. El objetivo principal es clasificar y mapear cómo el usuario interactúa con el artefacto y cómo este responde sensorialmente.  
 
@@ -18,14 +18,14 @@ Perilla de nivel de tostado (Física): Control giratorio continuo/discreto para 
 
 
 Botones de función / Cancelar (Física): Interruptores de presión para detener el proceso o activar modos específicos (descongelar/recalentar).  
-PDF
+
 
 📤 Salidas (Outputs)
 Calor de las resistencias (Física/Térmica): Transferencia de energía térmica para tostar el pan.  
-PDF
+
 
 Expulsión mecánica del pan (Física): Salida mediante resorte al finalizar el ciclo de temporización.  
-PDF
+
 
 Indicadores LED (Visual/Gráfica): Luz de confirmación de estado activo o función seleccionada.  
 
